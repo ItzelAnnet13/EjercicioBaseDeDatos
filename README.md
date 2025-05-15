@@ -1,6 +1,6 @@
-## Ejercicio de Base De Datos MySQL
+# Ejercicio de Base De Datos MySQL
 
-# Itzel Annet Muñoz Espinosa
+## Itzel Annet Muñoz Espinosa
 
 Analizar el archivo mysqlsampledatabase.sql  
 
