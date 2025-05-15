@@ -1,4 +1,6 @@
-# Ejercicio de Base De Datos MySQL
+## Ejercicio de Base De Datos MySQL
+
+# Itzel Annet Muñoz Espinosa
 
 Analizar el archivo mysqlsampledatabase.sql  
 
@@ -19,3 +21,5 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
 
 ---
+ > Vista rapida del diagrama de la base de datos
+ ![Index](https://raw.githubusercontent.com/ItzelAnnet13/EjercicioBaseDeDatos/refs/heads/main/assets/diagrama.png)
